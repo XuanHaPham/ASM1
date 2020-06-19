@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "ASM_BlobStorage", "ASM_BlobStorage\ASM_BlobStorage.ccproj", "{4278F4E2-475D-4BD2-AAC6-0001FEC26FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagesStore", "ImagesStore\ImagesStore.csproj", "{409F0086-FBDB-4397-B9DD-11C58AE5F9FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4278F4E2-475D-4BD2-AAC6-0001FEC26FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4278F4E2-475D-4BD2-AAC6-0001FEC26FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4278F4E2-475D-4BD2-AAC6-0001FEC26FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4278F4E2-475D-4BD2-AAC6-0001FEC26FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{409F0086-FBDB-4397-B9DD-11C58AE5F9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409F0086-FBDB-4397-B9DD-11C58AE5F9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409F0086-FBDB-4397-B9DD-11C58AE5F9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409F0086-FBDB-4397-B9DD-11C58AE5F9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4A09EF4-859F-4647-80E3-DCC82A850E00}
+	EndGlobalSection
+EndGlobal

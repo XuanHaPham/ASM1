@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:19:32 AM] Emulator config file set to C:\Users\Ha\Desktop\ASM_BlobStorage\ASM_BlobStorage\csx\Debug\roles\ImagesStore\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:19:32 AM] DiagnosticsStoreRootPath set to: C:\Users\Ha\AppData\Local\dftmp\Resources\25a6b0f4-b805-49d7-9ff9-d971a6f3f079
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:19:32 AM] Loading config file: C:\Users\Ha\Desktop\ASM_BlobStorage\ASM_BlobStorage\csx\Debug\roles\ImagesStore\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:19:32 AM] Config file to read: C:\Users\Ha\Desktop\ASM_BlobStorage\ASM_BlobStorage\csx\Debug\roles\ImagesStore\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:19:32 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:19:32 AM] Emulator config file set to C:\Users\Ha\Desktop\ASM_BlobStorage\ASM_BlobStorage\csx\Debug\roles\ImagesStore\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:19:32 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:19:32 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:19:32 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:19:32 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:19:32 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:19:32 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:19:32 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:19:32 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:19:32 AM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:43 AM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:43 AM] DiagnosticPlugin exited with code 0
